@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Taylor swift Fanpage </title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+        <div class="top-border-bar">
+        <div class="logo">
+            <a href="index.html">
+        <img src="https://th.bing.com/th/id/R.cd8a4f5b9d98d6d46bb49ad7ecb5631c?rik=JEnxCEajZuCNCA&riu=http%3a%2f%2fst3.depositphotos.com%2f9543826%2f15297%2fv%2f450%2fdepositphotos_152975570-stock-illustration-ts-connected-letters-logo.jpg&ehk=7yuzmWZnihjJQLDu%2fHYkbdvgx1EjnpyrJc7I0BPkRVg%3d&risl=&pid=ImgRaw&r=0" alt="logo">
+            </a>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">Menu</button> 
+            <div class="dropdown-content">
+            <a href="#bio">Bio</a>
+            <a href="#albums">Albums </a>
+            <a href="#fun-facts"> Fun Facts </a>
+        </div>
+    </div>
+</div>
+    
+    <div class="bio-row">
+    <div class="main-image-wrapper">
+    <img id="main-images" src="https://people.com/thmb/w_mPbKytCulNpbEvOtQmrVYsmU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/taylor-swift-singapore-030424-tout-0c0455753e2949558f07c22bbb6c1902.jpg">
+    </div>
+    
+    <div class="main-image-wrapper">
+    <div class="custom-box">
+       <h3>Taylor Swift Bio:</h3>
+       <p>
+        Name: Taylor Swift<br>
+        Age: 35<br>
+        Birth date: December 13, 1989<br>
+        Occupation: Singer and Songwriter<br>
+        Youtube channel:<a href="https://www.youtube.com/@TaylorSwift"> Taylor Swift Youtube channel </a><br>
+        Place of birth: West reading Pennsylvania <br>
+        Merch:<a href="https://store.taylorswift.com/"> Offical website/store </a><br>
+    </p> 
+    </div>
+    </div>
+    </div>
+
+    <head>
+    <body>
+    <div class="bio-row2">
+    <div class="custom-box2">
+    <h3> Fun Facts </h3>
+    <p> 
+        <ul>
+        <li>Did you know Taylor Swift is not only a singer, but also an actor.  She starred in many movies including "The lorax", "Cats", and, "The Giver"<br>
+        <li>Taylor Swift owns 8 houses including some in Rhode Island, Tennessee, NY, and California<br>
+        <li>Most of Taylor Swifts songs were written based on people she had previously dated<br>
+        <li>Taylor Swift started off making country music, but transitioned into pop over time<br>
+        </ul>
+    </p>
+    </div>
+    </div>
+
+    <h1>🎵 Taylor Swift albums 🎶 </h1>
+    <h1> 🎧 Wear your headphones or turn on volume </h1>
+    <div class="songs-container">
+    <div class="song-section">
+    <h1 class="heading1"> 💿❤️Red Album </h1>
+    <img id="Images" src="https://tse1.mm.bing.net/th/id/OIP.YCJ5jyQjYGc0SNtBgqOF5AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="A song I like ">
+    <a id="song1" class="text" href="https://www.youtube.com/watch?v=gr4cqcqnAN0&list=PLxA687tYuMWitUXCzppRcz3Tvnc763PPB"> Entire Red Album Playlist </a>
+</div>
+
+    <div class="song-section">
+    </div>
+    <div class="song-custom-box">
+        <h3> My personal favorites from this album </h3>
+    <p>
+        <ul>
+        <li> Red<br>
+        <li> Treacherous<br>
+        <li> I knew you were trouble<br>
+        <li> Everything has changed<br>
+        <li> 22<br>
+        <li> begin again<br>
+        <li> All too well<br>
+        </ul>
+    </p>
+    </div>
+    </div>
+
+    <div class="songs-container">
+    <div class="song-section">
+        <h1 class="heading5">💿💜 Lover Album </h1>
+        <img id="Images" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png">
+        <a id="Song5" class="text" href="https://www.youtube.com/watch?v=gLLE3B75UJw&list=PLzbGLskt3hhnZbC2GPdJv7BBWJcmH_Czq"> Entire Lover Album Playlist </a>
+        </div>
+
+    <div class="song-custom-box">
+        <h3> My personal favorites from this album </h3>
+    <p>
+        <ul>
+        <li> Cruel summer<br>
+        <li> The man <br>
+        <li> Lover <br>
+        <li> Me <br>
+        <li> You need to calm down <br>
+        </ul>
+    </p>
+    </div>
+    </div>
+
+    <div class="songs-container">
+        <div class="song-section">
+        <h1 class="heading2"> 💿1️⃣9️⃣8️⃣9️⃣ Album <h1>
+        <img id="Images" src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/32/41/69324127-ac8b-eca6-c749-a93b34692eb6/00602537993765.rgb.jpg/1200x1200bf-60.jpg">
+        <a id="song2" class="text" href="https://www.youtube.com/watch?v=8UtL_3WA_qs&list=PLFBgfSAIU1-vebEAKVMS2M6QsklWX4wEj"> Entire 1989 Album Playlist </a>
+        </div>
+    
+    <div class="songs-section">
+    </div>
+    <div class="song-custom-box">
+        <h3> My personal favorites from this album </h3>
+    <p>
+        <ul>
+        <li> Welcome to New York <br>
+        <li> Blank space <br>
+        <li> Style <br>
+        <li> shake it off <br>
+        <li> bad blood<br>
+        </ul>
+    </p>
+    </div>
+    </div>
+
+    <div class="songs-container">
+    <div class="song-section">
+        <h1 class="heading4"> 💿🌙 Midnights Album </h1>
+        <img id="Images" src="https://images.genius.com/9dc8daa62f94e5ecb8f514efe27c66c4.1000x1000x1.png" >
+        <a id="song4" class="text" href="https://www.youtube.com/watch?v=GwNPBeWpI-0&list=PLxA687tYuMWg9Tl792_McwQN2RZQn_u_C"> Entire Midnights Album Playlist </a>
+        </div>
+
+    <div class="song-section">
+    </div>
+    <div class="song-custom-box">
+        <h3> My personal favorites from this album </h3>
+    <p>
+        <ul>
+        <li> Anti-hero <br>
+        <li> Karma <br>
+        <li> Laveder Haze <br>
+        </ul>
+    </p>
+    </div>
+    </div>
+
+<div class="songs-container">
+<div class="song-section">
+<h1 class="heading3"> 📀⭐Fearless Album <h1>
+<img id="Images" src="https://th.bing.com/th/id/R.6ac5e40cc78ccba88db2da5b4364d18e?rik=6PtOBr9yrSW6Nw&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f14800000%2fFearless-Official-Album-Cover-fearless-taylor-swift-album-14877162-744-742.jpg&ehk=v%2faVIwQDbGGyRlQMRcjZeStDIRVxHVA%2fWFPq6I6BZ7M%3d&risl=&pid=ImgRaw&r=0">
+<a id="song3" class="text" href="https://www.youtube.com/watch?v=eVNNfmr_vWI&list=PLfiMjLyNWxeYt0dH7BHSvCNCNsK_EfJeZ"> Entire Fearless Album Playlist </a>
+</div>
+
+<div class="song-section">
+</div>
+<div class="song-custom-box">
+    <h3> My personal favorites from this album </h3>
+<p>
+    <ul>
+    <li> Love story <br>
+    <li> You belong with me <br>
+    </ul>
+</p>
+</div>
+</div>
+
+<div class="songs-container">
+<div class="song-section">
+<h1 class="heading6">📀🍃 Folkore Album </h1>
+<img id="Images" src="https://epeaglenewsnetwork.com/wp-content/uploads/2020/10/Folklore-900x900.jpg">
+<a id="song6" class="text" href="https://www.youtube.com/watch?v=_yHn-954iVQ&list=PLfiMjLyNWxeZl828zfvlnymKB2c9o3cKp"> Entire Folkore Album Playlist </a>
+</div>
+
+<div class="song-section">
+</div>
+<div class="song-custom-box">
+    <h3> My personal favorites from this album </h3>
+<p>
+    <ul>
+    <li> Cardigan <br>
+    </ul>
+</p>
+</div>
+</div>
+
+<div class="songs-container">
+<div class="song-section">
+    <h1 class="heading7">💿🐍Reputation Album </h1>
+    <img id="images" src="https://scroar.net/wp-content/uploads/2017/11/Taylor-Swift-reputation-ART-2017-billboard-1548-800x800.jpg" width="auto" height="300px">
+    <a id="song7" class="text" href="https://www.youtube.com/watch?v=xYLxUJ9v6KU&list=PLbf3ayzuvZVU9NvZVGv4EE_YLlli0IEpt"> Entire Reputation Album Playlist </a>
+    </div>
+
+    <div class="song-section">
+    </div>
+    <div class="song-custom-box">
+        <h3> My personal favorites from this album </h3>
+    <p>
+        <ul>
+        <li> Ready for it <br>
+        <li> End game <br>
+        <li> Delicate <br>
+        </ul>
+    </p>
+    </div>
+    </div>
+
+    <div class="songs-container">
+    <div class="song-section">
+    <h1 class="heading8"> 💿🎤 Speak Now Album </h1>
+    <img id="images" src="https://th.bing.com/th/id/R.496273b04599867a8779934a302fc2fe?rik=bBTfZfiJ9Xx%2fSA&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f14900000%2fSpeak-Now-FanMade-Album-Cover-speak-now-14982606-910-910.jpg&ehk=9t4RMGedDCV8iBhbXekmwGXOPzwFzbZbjntVVXfCwuI%3d&risl=&pid=ImgRaw&r=0" width="auto" height="300px">
+    <a id="song8" class="text" href="https://www.youtube.com/watch?v=6KnDUtPoelU&list=PLxA687tYuMWiQ8--6osItwaFfYm2Pj3ci"> Entire Speak Now Album Playlist </a>
+        </div>
+
+        <div class="song-section">
+        </div>
+        <div class="song-custom-box">
+            <h3> My personal favorites from this album </h3>
+        <p>
+            <ul>
+            <li> Mine <br>
+            <li> Back to December <br>
+            <li> Mean <br>
+            <li> The story of us <br>
+            <li> Enchanted <br>
+            </ul>
+        </p>
+        </div>
+        </div>
+
+    <h1> Fanart 😎 </h1>
+    <div class="songs-container">
+        <div class="song-section">
+        <img id="Images" src="https://preview.redd.it/my-fanart-of-red-taylors-version-v0-fo68hw0i0xrb1.jpg?width=4000&format=pjpg&auto=webp&s=5ebfba67ebe368a9d879ebeb1cc9f50351ec5e26">
+        </div>
+        
+    <img src="https://i.redd.it/blc5n92ehrk91.jpg" width="auto" height="300">
+    <img src="https://i.pinimg.com/736x/5c/d0/a9/5cd0a9fc5f992c28c71d6d517e7e5240.jpg" width="auto" height="300">
+    <img src="https://i.pinimg.com/236x/1e/28/a4/1e28a45499c7862076dbdee3539f9f69.jpg?nii=t" width="auto" height="300">
+    <img src="https://tse1.explicit.bing.net/th/id/OIP.3z25nSBC6Z9H1e8ahgSgfgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="auto" height="300">
+    <img src="https://taylorswifttributebands.com/wp-content/uploads/2024/05/mztributebands_Taylor_Swift_illustration_action_shot_performing_eeb68f99-33c4-4e10-b34c-7c4a23f72246-1536x1536.png" width="auto" height="300">
+    <img src="https://tse1.mm.bing.net/th/id/OIP.h2QjI5qJ4ST0qwdhMrTRNgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="auto" height="300">
+    <img src="https://images6.fanpop.com/image/photos/45000000/Taylor-Swift-taylor-swift-swiftie-fan-45090940-828-1030.jpg" width="auto" height="300">
+    <img src="https://tse4.mm.bing.net/th/id/OIP.by3Ay7jfF9zkS4mkfietxQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width=auto height="300">
+    
